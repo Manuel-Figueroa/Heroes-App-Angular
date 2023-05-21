@@ -10,170 +10,191 @@
     {
       "id": "dc-batman",
       "superhero": "Batman",
-      "publisher": "DC Comics",
+      "publisher": "DC comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
+      "characters": "Bruce Wayne",
+      "alt_img": null
     },
     {
       "id": "dc-superman",
       "superhero": "Superman",
-      "publisher": "DC Comics",
+      "publisher": "DC comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": "https://static01.nyt.com/images/2018/04/18/arts/18superman-oak-refer/18superman-oak10-superJumbo.jpg"
     },
     {
       "id": "dc-flash",
       "superhero": "Flash",
-      "publisher": "DC Comics",
+      "publisher": "DC comics",
       "alter_ego": "Jay Garrick",
       "first_appearance": "Flash Comics #1",
-      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
+      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen",
+      "alt_img": null
     },
     {
       "id": "dc-green",
       "superhero": "Green Lantern",
-      "publisher": "DC Comics",
+      "publisher": "DC comics",
       "alter_ego": "Alan Scott",
       "first_appearance": "All-American Comics #16",
-      "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
+      "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz",
+      "alt_img": null
     },
     {
       "id": "dc-arrow",
       "superhero": "Green Arrow",
-      "publisher": "DC Comics",
+      "publisher": "DC comics",
       "alter_ego": "Oliver Queen",
       "first_appearance": "More Fun Comics #73",
-      "characters": "Oliver Queen"
+      "characters": "Oliver Queen",
+      "alt_img": null
     },
     {
       "id": "dc-wonder",
       "superhero": "Wonder Woman",
-      "publisher": "DC Comics",
+      "publisher": "DC comics",
       "alter_ego": "Princess Diana",
       "first_appearance": "All Star Comics #8",
-      "characters": "Princess Diana"
+      "characters": "Princess Diana",
+      "alt_img": null
     },
     {
       "id": "dc-martian",
       "superhero": "Martian Manhunter",
-      "publisher": "DC Comics",
+      "publisher": "DC comics",
       "alter_ego": "J\"onn J\"onzz",
       "first_appearance": "Detective Comics #225",
-      "characters": "Martian Manhunter"
+      "characters": "Martian Manhunter",
+      "alt_img": null
     },
     {
       "id": "dc-robin",
       "superhero": "Robin/Nightwing",
-      "publisher": "DC Comics",
+      "publisher": "DC comics",
       "alter_ego": "Dick Grayson",
       "first_appearance": "Detective Comics #38",
-      "characters": "Dick Grayson"
+      "characters": "Dick Grayson",
+      "alt_img": null
     },
     {
       "id": "dc-blue",
       "superhero": "Blue Beetle",
-      "publisher": "DC Comics",
+      "publisher": "DC comics",
       "alter_ego": "Dan Garret",
       "first_appearance": "Mystery Men Comics #1",
-      "characters": "Dan Garret, Ted Kord, Jaime Reyes"
+      "characters": "Dan Garret, Ted Kord, Jaime Reyes",
+      "alt_img": null
     },
     {
       "id": "dc-black",
       "superhero": "Black Canary",
-      "publisher": "DC Comics",
+      "publisher": "DC comics",
       "alter_ego": "Dinah Drake",
       "first_appearance": "Flash Comics #86",
-      "characters": "Dinah Drake, Dinah Lance"
+      "characters": "Dinah Drake, Dinah Lance",
+      "alt_img": null
     },
     {
       "id": "dc-power",
       "superhero": "Power Woman",
-      "publisher": "DC Comics",
+      "publisher": "DC comics",
       "alter_ego": "Karen Starr",
       "first_appearance": "All Star Comics #58",
-      "characters": "Karen Starr,Kara Zor-EL"
+      "characters": "Karen Starr,Kara Zor-EL",
+      "alt_img": null
     },
     {
       "id": "marvel-spider",
       "superhero": "Spider Man",
-      "publisher": "Marvel Comics",
+      "publisher": "Marvel comics",
       "alter_ego": "Peter Parker",
       "first_appearance": "Amazing Fantasy #15",
-      "characters": "Peter Parker"
+      "characters": "Peter Parker",
+      "alt_img": null
     },
     {
       "id": "marvel-captain",
       "superhero": "Captain America",
-      "publisher": "Marvel Comics",
+      "publisher": "Marvel comics",
       "alter_ego": "Steve Rogers",
       "first_appearance": "Captain America Comics #1",
-      "characters": "Steve Rogers"
+      "characters": "Steve Rogers",
+      "alt_img": null
     },
     {
       "id": "marvel-iron",
       "superhero": "Iron Man",
-      "publisher": "Marvel Comics",
+      "publisher": "Marvel comics",
       "alter_ego": "Tony Stark",
       "first_appearance": "Tales of Suspense #39",
-      "characters": "Tony Stark"
+      "characters": "Tony Stark",
+      "alt_img": null
     },
     {
       "id": "marvel-thor",
       "superhero": "Thor",
-      "publisher": "Marvel Comics",
+      "publisher": "Marvel comics",
       "alter_ego": "Thor Odinson",
       "first_appearance": "Journey into Myster #83",
-      "characters": "Thor Odinson"
+      "characters": "Thor Odinson",
+      "alt_img": null
     },
     {
       "id": "marvel-hulk",
       "superhero": "Hulk",
-      "publisher": "Marvel Comics",
+      "publisher": "Marvel comics",
       "alter_ego": "Bruce Banner",
       "first_appearance": "The Incredible Hulk #1",
-      "characters": "Bruce Banner"
+      "characters": "Bruce Banner",
+      "alt_img": null
     },
     {
       "id": "marvel-wolverine",
       "superhero": "Wolverine",
-      "publisher": "Marvel Comics",
+      "publisher": "Marvel comics",
       "alter_ego": "James Howlett",
       "first_appearance": "The Incredible Hulk #180",
-      "characters": "James Howlett"
+      "characters": "James Howlett",
+      "alt_img": null
     },
     {
       "id": "marvel-daredevil",
       "superhero": "Daredevil",
-      "publisher": "Marvel Comics",
+      "publisher": "Marvel comics",
       "alter_ego": "Matthew Michael Murdock",
       "first_appearance": "Daredevil #1",
-      "characters": "Matthew Michael Murdock"
+      "characters": "Matthew Michael Murdock",
+      "alt_img": null
     },
     {
       "id": "marvel-hawkeye",
       "superhero": "Hawkeye",
-      "publisher": "Marvel Comics",
+      "publisher": "Marvel comics",
       "alter_ego": "Clinton Francis Barton",
       "first_appearance": "Tales of Suspense #57",
-      "characters": "Clinton Francis Barton"
+      "characters": "Clinton Francis Barton",
+      "alt_img": null
     },
     {
       "id": "marvel-cyclops",
       "superhero": "Cyclops",
-      "publisher": "Marvel Comics",
+      "publisher": "Marvel comics",
       "alter_ego": "Scott Summers",
       "first_appearance": "X-Men #1",
-      "characters": "Scott Summers"
+      "characters": "Scott Summers",
+      "alt_img": null
     },
     {
       "id": "marvel-silver",
       "superhero": "Silver Surfer",
-      "publisher": "Marvel Comics",
+      "publisher": "Marvel comics",
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
-      "characters": "Norrin Radd"
+      "characters": "Norrin Radd",
+      "alt_img": null
     }
   ]
 }
